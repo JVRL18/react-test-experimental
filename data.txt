@@ -1,0 +1,11 @@
+the funny part is that next is somehow too ahead (pretty cool)
+
+also renders from /pages
+
+components from pages need to use export default!
+
+there is alot abt of spa and static sites so, incremental static generation is a thing on next.
+
+actually theres a lot of rendering methods for each use case (lol?) and is not for each app, IS FOR EACH PAGE FROM THE APP!
+
+C R A Z Y!

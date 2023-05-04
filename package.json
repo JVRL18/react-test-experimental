@@ -1,0 +1,28 @@
+{
+  "name": "react-test-experimental",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "dev": "next dev"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JVRL18/react-test-experimental.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JVRL18/react-test-experimental/issues"
+  },
+  "homepage": "https://github.com/JVRL18/react-test-experimental#readme",
+  "dependencies": {
+    "next": "^13.3.4",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  }
+}
