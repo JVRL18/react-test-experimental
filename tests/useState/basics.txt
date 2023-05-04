@@ -1,0 +1,5 @@
+actually I think vue is WAYYYYYYYYYYYYYYYYYYYYY BETTER
+
+but this is funny too, instead of us creating the functions react has a lot that can be edited.
+
+use array destructure, first comes the value then the function name that we can call!, set the start value at the reactstate call!

@@ -1,0 +1,9 @@
+react uses jsx so just need to follow the jsx 3 rules
+
+multiple components inside <></>
+
+
+react components are be functions (do not call directly)
+first letter captalized
+<MyComponent />
+^^^ example, just need to add the tags btw.
